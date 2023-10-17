@@ -11,6 +11,7 @@ o resultado será inconsistente.
 public class Rectangle {
     protected int width;
     protected int height;
+    
 
     public void setWidth(int width) {
         this.width = width;
